@@ -1,15 +1,14 @@
 {
   "greeting": "Hola",
   "name": "Mamá",
-  "greetingText": "Tu nombre significa amor incondicional 💖",
-  "wishText": "Gracias por ser mi guía, mi fuerza y mi todo.",
+  "greetingText": "Gracias por ser la luz, el amor y la fortaleza en mi vida 💖",
+  "wishText": "Gracias por tu amor incondicional y por estar siempre ahí 🌷",
   "imagePath": "img/lydia2.png",
-  "imagePath": "img/dsdsadsa.png",
   "text1": "¡Hoy celebramos a alguien increíble!",
   "textInChatBox": "Feliz Día de la Madre ❤️ Gracias por todo tu amor, tus cuidados y por estar siempre ahí.",
   "sendButtonLabel": "Enviar",
   "text2": "Pensaba enviarte un mensaje sencillo...",
-  "text3": "Pero luego me detuve.",
+  "text3": "Pero te mereces algo mucho mejor.",
   "text4": "Me di cuenta de que quería hacer algo",
   "text4Adjective": "especial",
   "text5Entry": "Porque",
@@ -18,7 +17,10 @@
   "bigTextPart1": "T",
   "bigTextPart2": "U",
   "wishHeading": "¡Feliz Día de la Madre!",
-  "outroText": "Ahora cuéntame si te gustó esta sorpresa 😊",
-  "replayText": "O haz clic aquí si quieres verlo de nuevo",
-  "outroSmiley": ":)"
+  "outroText": "💕 ¿Te gustó? 💕",
+  "replayText": "Haz clic aquí si quieres verlo de nuevo Mamá",
+  "outroSmiley": "😊"
 }
+
+
+
